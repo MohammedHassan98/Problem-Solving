@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603752005 source:/home/mohammedhassan/Desktop/Problem Solving/Way Too Long Words/main.cpp
+	<iostream>
+	<string.h>
+
